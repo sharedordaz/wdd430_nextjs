@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#My password to push files
+token
+
 # dependencies
 /node_modules
 /.pnp
